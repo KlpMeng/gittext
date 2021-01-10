@@ -1,2 +1,6 @@
 my data1
+<<<<<<< HEAD
 我是master支
+=======
+我是develop分支
+>>>>>>> develop
