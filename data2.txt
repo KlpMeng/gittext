@@ -1,3 +1,7 @@
 my data2
+<<<<<<< HEAD
 我是develop分支
+=======
+我是mybranch分支
+>>>>>>> mybranch
 
